@@ -1,3 +1,6 @@
+hostname 
+domain
+
 ## Hi there 👋
 
 <!--
